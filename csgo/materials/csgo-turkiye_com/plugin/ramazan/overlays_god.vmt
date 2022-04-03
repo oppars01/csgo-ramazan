@@ -1,0 +1,5 @@
+"MonitorScreen"
+{
+	"$basetexture" "csgo-turkiye_com/plugin/ramazan/overlays_god"
+	"$translucent" 1
+}
