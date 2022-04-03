@@ -1,0 +1,687 @@
+"2022-04-01"
+{
+    "04:16"
+    {
+        "count"     "1"
+        "1"        "IĞDIR"
+    
+    }
+    "04:18"
+    {
+        "count"     "1"
+        "1"        "KARS"
+    
+    }
+    "04:19"
+    {
+        "count"     "1"
+        "1"        "ARDAHAN"
+    
+    }
+    "04:20"
+    {
+        "count"     "1"
+        "1"        "AĞRI"
+    
+    }
+    "04:21"
+    {
+        "count"     "1"
+        "1"        "VAN"
+    
+    }
+    "04:22"
+    {
+        "count"     "2"
+        "1"        "ARTVİN"
+        "2"        "HAKKARİ"
+    
+    }
+    "04:27"
+    {
+        "count"     "3"
+        "1"        "BİTLİS"
+        "2"        "ERZURUM"
+        "3"        "ŞIRNAK"
+    
+    }
+    "04:28"
+    {
+        "count"     "2"
+        "1"        "RİZE"
+        "2"        "SİİRT"
+    
+    }
+    "04:29"
+    {
+        "count"     "1"
+        "1"        "MUŞ"
+    
+    }
+    "04:30"
+    {
+        "count"     "1"
+        "1"        "BAYBURT"
+    
+    }
+    "04:31"
+    {
+        "count"     "1"
+        "1"        "TRABZON"
+    
+    }
+    "04:32"
+    {
+        "count"     "2"
+        "1"        "BATMAN"
+        "2"        "BİNGÖL"
+    
+    }
+    "04:33"
+    {
+        "count"     "1"
+        "1"        "GÜMÜŞHANE"
+    
+    }
+    "04:34"
+    {
+        "count"     "1"
+        "1"        "MARDİN"
+    
+    }
+    "04:35"
+    {
+        "count"     "2"
+        "1"        "DİYARBAKIR"
+        "2"        "ERZİNCAN"
+    
+    }
+    "04:36"
+    {
+        "count"     "2"
+        "1"        "GİRESUN"
+        "2"        "TUNCELİ"
+    
+    }
+    "04:38"
+    {
+        "count"     "2"
+        "1"        "ELAZIĞ"
+        "2"        "ORDU"
+    
+    }
+    "04:42"
+    {
+        "count"     "2"
+        "1"        "MALATYA"
+        "2"        "ŞANLIURFA"
+    
+    }
+    "04:43"
+    {
+        "count"     "1"
+        "1"        "ADIYAMAN"
+    
+    }
+    "04:44"
+    {
+        "count"     "2"
+        "1"        "SAMSUN"
+        "2"        "SİVAS"
+    
+    }
+    "04:45"
+    {
+        "count"     "1"
+        "1"        "TOKAT"
+    
+    }
+    "04:47"
+    {
+        "count"     "2"
+        "1"        "AMASYA"
+        "2"        "SİNOP"
+    
+    }
+    "04:48"
+    {
+        "count"     "1"
+        "1"        "GAZİANTEP"
+    
+    }
+    "04:49"
+    {
+        "count"     "1"
+        "1"        "KAHRAMANMARAŞ"
+    
+    }
+    "04:50"
+    {
+        "count"     "1"
+        "1"        "KİLİS"
+    
+    }
+    "04:51"
+    {
+        "count"     "1"
+        "1"        "ÇORUM"
+    
+    }
+    "04:53"
+    {
+        "count"     "3"
+        "1"        "KAYSERİ"
+        "2"        "OSMANİYE"
+        "3"        "YOZGAT"
+    
+    }
+    "04:54"
+    {
+        "count"     "1"
+        "1"        "KASTAMONU"
+    
+    }
+    "04:55"
+    {
+        "count"     "1"
+        "1"        "HATAY"
+    
+    }
+    "04:56"
+    {
+        "count"     "2"
+        "1"        "ÇANKIRI"
+        "2"        "NEVŞEHİR"
+    
+    }
+    "04:57"
+    {
+        "count"     "3"
+        "1"        "ADANA"
+        "2"        "KIRŞEHİR"
+        "3"        "NİĞDE"
+    
+    }
+    "04:58"
+    {
+        "count"     "1"
+        "1"        "KIRIKKALE"
+    
+    }
+    "04:59"
+    {
+        "count"     "3"
+        "1"        "AKSARAY"
+        "2"        "BARTIN"
+        "3"        "KARABÜK"
+    
+    }
+    "05:00"
+    {
+        "count"     "1"
+        "1"        "MERSİN"
+    
+    }
+    "05:01"
+    {
+        "count"     "1"
+        "1"        "ANKARA"
+    
+    }
+    "05:02"
+    {
+        "count"     "1"
+        "1"        "ZONGULDAK"
+    
+    }
+    "05:04"
+    {
+        "count"     "1"
+        "1"        "BOLU"
+    
+    }
+    "05:05"
+    {
+        "count"     "2"
+        "1"        "DÜZCE"
+        "2"        "KARAMAN"
+    
+    }
+    "05:06"
+    {
+        "count"     "1"
+        "1"        "KONYA"
+    
+    }
+    "05:09"
+    {
+        "count"     "1"
+        "1"        "SAKARYA"
+    
+    }
+    "05:10"
+    {
+        "count"     "1"
+        "1"        "ESKİŞEHİR"
+    
+    }
+    "05:11"
+    {
+        "count"     "1"
+        "1"        "KOCAELİ"
+    
+    }
+    "05:12"
+    {
+        "count"     "2"
+        "1"        "AFYONKARAHİSAR"
+        "2"        "BİLECİK"
+    
+    }
+    "05:13"
+    {
+        "count"     "2"
+        "1"        "KUTAHYA"
+        "2"        "YALOVA"
+    
+    }
+    "05:14"
+    {
+        "count"     "2"
+        "1"        "ISPARTA"
+        "2"        "İSTANBUL"
+    
+    }
+    "05:15"
+    {
+        "count"     "3"
+        "1"        "ANTALYA"
+        "2"        "BURDUR"
+        "3"        "BURSA"
+    
+    }
+    "05:17"
+    {
+        "count"     "1"
+        "1"        "UŞAK"
+    
+    }
+    "05:19"
+    {
+        "count"     "1"
+        "1"        "KIRKLARELİ"
+    
+    }
+    "05:20"
+    {
+        "count"     "2"
+        "1"        "DENİZLİ"
+        "2"        "TEKİRDAĞ"
+    
+    }
+    "05:21"
+    {
+        "count"     "1"
+        "1"        "BALIKESİR"
+    
+    }
+    "05:22"
+    {
+        "count"     "1"
+        "1"        "EDİRNE"
+    
+    }
+    "05:24"
+    {
+        "count"     "1"
+        "1"        "MUĞLA"
+    
+    }
+    "05:25"
+    {
+        "count"     "2"
+        "1"        "AYDIN"
+        "2"        "MANİSA"
+    
+    }
+    "05:26"
+    {
+        "count"     "1"
+        "1"        "ÇANAKKALE"
+    
+    }
+    "05:27"
+    {
+        "count"     "1"
+        "1"        "İZMİR"
+    
+    }
+    "18:34"
+    {
+        "count"     "2"
+        "1"        "HAKKARİ"
+        "2"        "IĞDIR"
+    
+    }
+    "18:36"
+    {
+        "count"     "1"
+        "1"        "VAN"
+    
+    }
+    "18:38"
+    {
+        "count"     "2"
+        "1"        "AĞRI"
+        "2"        "KARS"
+    
+    }
+    "18:39"
+    {
+        "count"     "1"
+        "1"        "ŞIRNAK"
+    
+    }
+    "18:40"
+    {
+        "count"     "1"
+        "1"        "ARDAHAN"
+    
+    }
+    "18:41"
+    {
+        "count"     "2"
+        "1"        "BİTLİS"
+        "2"        "SİİRT"
+    
+    }
+    "18:44"
+    {
+        "count"     "2"
+        "1"        "ARTVİN"
+        "2"        "MUŞ"
+    
+    }
+    "18:45"
+    {
+        "count"     "2"
+        "1"        "BATMAN"
+        "2"        "ERZURUM"
+    
+    }
+    "18:46"
+    {
+        "count"     "1"
+        "1"        "MARDİN"
+    
+    }
+    "18:48"
+    {
+        "count"     "2"
+        "1"        "BİNGÖL"
+        "2"        "DİYARBAKIR"
+    
+    }
+    "18:49"
+    {
+        "count"     "1"
+        "1"        "RİZE"
+    
+    }
+    "18:50"
+    {
+        "count"     "1"
+        "1"        "BAYBURT"
+    
+    }
+    "18:52"
+    {
+        "count"     "3"
+        "1"        "ERZİNCAN"
+        "2"        "TRABZON"
+        "3"        "TUNCELİ"
+    
+    }
+    "18:53"
+    {
+        "count"     "2"
+        "1"        "ELAZIĞ"
+        "2"        "GÜMÜŞHANE"
+    
+    }
+    "18:54"
+    {
+        "count"     "1"
+        "1"        "ŞANLIURFA"
+    
+    }
+    "18:56"
+    {
+        "count"     "2"
+        "1"        "ADIYAMAN"
+        "2"        "MALATYA"
+    
+    }
+    "18:57"
+    {
+        "count"     "1"
+        "1"        "GİRESUN"
+    
+    }
+    "18:59"
+    {
+        "count"     "1"
+        "1"        "GAZİANTEP"
+    
+    }
+    "19:00"
+    {
+        "count"     "2"
+        "1"        "KİLİS"
+        "2"        "ORDU"
+    
+    }
+    "19:01"
+    {
+        "count"     "1"
+        "1"        "KAHRAMANMARAŞ"
+    
+    }
+    "19:02"
+    {
+        "count"     "1"
+        "1"        "SİVAS"
+    
+    }
+    "19:04"
+    {
+        "count"     "3"
+        "1"        "HATAY"
+        "2"        "OSMANİYE"
+        "3"        "TOKAT"
+    
+    }
+    "19:06"
+    {
+        "count"     "1"
+        "1"        "SAMSUN"
+    
+    }
+    "19:07"
+    {
+        "count"     "1"
+        "1"        "ADANA"
+    
+    }
+    "19:08"
+    {
+        "count"     "2"
+        "1"        "AMASYA"
+        "2"        "KAYSERİ"
+    
+    }
+    "19:10"
+    {
+        "count"     "1"
+        "1"        "MERSİN"
+    
+    }
+    "19:11"
+    {
+        "count"     "5"
+        "1"        "ÇORUM"
+        "2"        "NEVŞEHİR"
+        "3"        "NİĞDE"
+        "4"        "SİNOP"
+        "5"        "YOZGAT"
+    
+    }
+    "19:13"
+    {
+        "count"     "2"
+        "1"        "AKSARAY"
+        "2"        "KIRŞEHİR"
+    
+    }
+    "19:16"
+    {
+        "count"     "4"
+        "1"        "ÇANKIRI"
+        "2"        "KARAMAN"
+        "3"        "KASTAMONU"
+        "4"        "KIRIKKALE"
+    
+    }
+    "19:19"
+    {
+        "count"     "2"
+        "1"        "ANKARA"
+        "2"        "KONYA"
+    
+    }
+    "19:21"
+    {
+        "count"     "1"
+        "1"        "KARABÜK"
+    
+    }
+    "19:22"
+    {
+        "count"     "1"
+        "1"        "BARTIN"
+    
+    }
+    "19:24"
+    {
+        "count"     "2"
+        "1"        "BOLU"
+        "2"        "ZONGULDAK"
+    
+    }
+    "19:26"
+    {
+        "count"     "2"
+        "1"        "ANTALYA"
+        "2"        "DÜZCE"
+    
+    }
+    "19:27"
+    {
+        "count"     "1"
+        "1"        "ISPARTA"
+    
+    }
+    "19:28"
+    {
+        "count"     "3"
+        "1"        "AFYONKARAHİSAR"
+        "2"        "BURDUR"
+        "3"        "ESKİŞEHİR"
+    
+    }
+    "19:29"
+    {
+        "count"     "1"
+        "1"        "SAKARYA"
+    
+    }
+    "19:30"
+    {
+        "count"     "1"
+        "1"        "KUTAHYA"
+    
+    }
+    "19:31"
+    {
+        "count"     "2"
+        "1"        "BİLECİK"
+        "2"        "KOCAELİ"
+    
+    }
+    "19:32"
+    {
+        "count"     "1"
+        "1"        "UŞAK"
+    
+    }
+    "19:33"
+    {
+        "count"     "1"
+        "1"        "DENİZLİ"
+    
+    }
+    "19:34"
+    {
+        "count"     "2"
+        "1"        "BURSA"
+        "2"        "YALOVA"
+    
+    }
+    "19:35"
+    {
+        "count"     "2"
+        "1"        "İSTANBUL"
+        "2"        "MUĞLA"
+    
+    }
+    "19:38"
+    {
+        "count"     "1"
+        "1"        "AYDIN"
+    
+    }
+    "19:39"
+    {
+        "count"     "1"
+        "1"        "BALIKESİR"
+    
+    }
+    "19:40"
+    {
+        "count"     "1"
+        "1"        "MANİSA"
+    
+    }
+    "19:41"
+    {
+        "count"     "2"
+        "1"        "İZMİR"
+        "2"        "TEKİRDAĞ"
+    
+    }
+    "19:43"
+    {
+        "count"     "1"
+        "1"        "KIRKLARELİ"
+    
+    }
+    "19:45"
+    {
+        "count"     "2"
+        "1"        "ÇANAKKALE"
+        "2"        "EDİRNE"
+    
+    }
+
+    
+}
