@@ -18,6 +18,7 @@ ConVar cv_server_location = null;
 char s_server_location[32];
 bool b_muslim[ MAXPLAYERS + 1 ] = {true, ...}, b_status;
 int i_rT;
+Handle h_timer = null;
 
 public void OnPluginStart()
 {   
@@ -87,6 +88,11 @@ public void Event_RoundEnd(Handle event, const char[] Name, bool dontbroadcast)
 public void Control(){
     if(b_status){
         b_status = false;
+        if (h_timer != null)
+		{
+			delete h_timer;
+			h_timer = null;
+		}
         for (int i = 1; i <= MaxClients; i++) if(IsValidClient(i)) {
             if(IsPlayerAlive(i))SetEntPropFloat(i, Prop_Data, "m_flLaggedMovementValue", 1.0);
             CreateTimer(0.0, DeleteOverlay, GetClientUserId(i));
@@ -156,15 +162,22 @@ public void Ramadan(){
     b_status = true;
     RemoveWeapons();
     if(i_rT > 0) GameRules_SetProp("m_iRoundTime", (130+(GetTime()-i_rT)), 4, 0, true);
+    h_timer = CreateTimer(132.0, RamadanFinish);
+    char s_temp[4];
+    FormatTime(s_temp, sizeof(s_temp), "%H", GetTime());
     for (int i = 1; i <= MaxClients; i++){
         if(IsValidClient(i)){
-            char s_temp[4];
-            FormatTime(s_temp, sizeof(s_temp), "%H", GetTime());
             SetHudTextParams(-1.0, 0.1, 5.0, GetRandomInt(0, 255), GetRandomInt(0, 255), GetRandomInt(0, 255), 0, 2, 1.0, 0.1, 0.2);
             ShowHudText(i, 1, "%s İÇİN %s VAKTİ", s_server_location, (StringToInt(s_temp) > 13 ? "İFTAR": "SAHUR"));
             RamadanPlayer(i);
         }
     }
+}
+
+public Action RamadanFinish(Handle timer)
+{
+    Control();
+    return Plugin_Continue;
 }
 
 public void RamadanPlayer(int client){
